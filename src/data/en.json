@@ -1,0 +1,74 @@
+{
+  "nav": { "skills": "Skills", "projects": "Projects", "hire": "Hire me" },
+  "toggles": { "dark": "DARK MODE", "light": "LIGHT MODE", "toTR": "TÜRKÇE'YE GEÇ", "toEN": "SWITCH TO ENGLISH" },
+  "hero": {
+    "name": "Meryem Sıla Çukur",
+    "title1": "Creative thinker",
+    "title2": "Minimalism lover",
+    "desc": "Hi, I'm Meryem Sıla. I'm a full-stack developer. If you're looking for a developer who crafts solid and scalable products with great user experiences, let's shake hands.",
+    "cta": "Hire me",
+    "github": "Github",
+    "linkedin": "Linkedin"
+  },
+  "skills": {
+    "title": "Skills",
+    "items": [
+      { "name": "Java Script", "desc": "Clean, readable, test-friendly JS. Solid fundamentals, strong UI logic." },
+      { "name": "React.Js", "desc": "Component-driven architecture, hooks, context, routing, and data flow." },
+      { "name": "Node.Js", "desc": "REST APIs, middleware, auth basics, and scalable project structure." }
+    ]
+  },
+  "profile": {
+    "title": "Profile",
+    "leftTitle": "Profile",
+    "aboutTitle": "About Me",
+    "about": "I enjoy building accessible, fast and clean interfaces. I care about UI details, consistent spacing and readable code.",
+    "fields": [
+      { "label": "Date of Birth", "value": "29.04.1999" },
+      { "label": "City", "value": "Kocaeli" },
+      { "label": "Education", "value": "Kocaeli University, Biomedical Engineering (2023)" },
+      { "label": "Preferred Role", "value": "Frontend, UI" }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Workintech",
+        "desc": "I completed a 6-month Full Stack Developer training program at Workintech. I developed end-to-end web applications using frontend and backend technologies.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "site": "View Site",
+        "githubUrl": "https://github.com/",
+        "siteUrl": "https://example.com/"
+      },
+      {
+        "title": "Random Jokes",
+        "desc": "A tiny app that fetches jokes with a clean UI and smooth UX. Built to be fast and responsive.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "site": "View Site",
+        "githubUrl": "https://github.com/",
+        "siteUrl": "https://example.com/"
+      },
+      {
+        "title": "Journey",
+        "desc": "A simple UI project focused on consistent spacing, typography and clean components.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "site": "View Site",
+        "githubUrl": "https://github.com/",
+        "siteUrl": "https://example.com/"
+      }
+    ]
+  },
+  "footer": {
+    "headline": "Let’s work together on\nyour next product.",
+    "email": "almilasucode@gmail.com",
+    "links": [
+      { "label": "Personal Blog", "url": "https://example.com/" },
+      { "label": "Github", "url": "https://github.com/" },
+      { "label": "Linkedin", "url": "https://linkedin.com/" }
+    ]
+  }
+}

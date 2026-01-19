@@ -1,0 +1,74 @@
+{
+  "nav": { "skills": "Yetenekler", "projects": "Projeler", "hire": "İletişime Geç" },
+  "toggles": { "dark": "KARANLIK MOD", "light": "AYDINLIK MOD", "toTR": "TÜRKÇE", "toEN": "SWITCH TO ENGLISH" },
+  "hero": {
+    "name": "Meryem Sıla Çukur",
+    "title1": "Yaratıcı düşünen",
+    "title2": "Minimalizm seven",
+    "desc": "Merhaba, ben Meryem Sıla. Full-stack geliştiriciyim. Sağlam, ölçeklenebilir ve kullanıcı deneyimi güçlü ürünler geliştirmek için birlikte çalışabiliriz.",
+    "cta": "İletişime Geç",
+    "github": "Github",
+    "linkedin": "Linkedin"
+  },
+  "skills": {
+    "title": "Yetenekler",
+    "items": [
+      { "name": "Java Script", "desc": "Temiz ve okunabilir JS. UI mantığı güçlü, test yazmaya uygun yapı." },
+      { "name": "React.Js", "desc": "Component mimarisi, hook’lar, context ve doğru data flow." },
+      { "name": "Node.Js", "desc": "REST API’ler, middleware, temel auth ve ölçeklenebilir yapı." }
+    ]
+  },
+  "profile": {
+    "title": "Profil",
+    "leftTitle": "Profil",
+    "aboutTitle": "Hakkımda",
+    "about": "Erişilebilir, hızlı ve düzenli arayüzler yapmayı seviyorum. UI detayları, tutarlı boşluklar ve okunabilir kod benim için önemli.",
+    "fields": [
+      { "label": "Doğum tarihi", "value": "29.04.1999" },
+      { "label": "İkamet Şehri", "value": "Kocaeli" },
+      { "label": "Eğitim Durumu", "value": "Kocaeli Ünv. Biyomedikal Mühendisliği (2023)" },
+      { "label": "Tercih Ettiği Rol", "value": "Frontend, UI" }
+    ]
+  },
+  "projects": {
+    "title": "Projeler",
+    "items": [
+      {
+        "title": "Workintech",
+        "desc": "Workintech’te 6 aylık Full Stack Developer eğitimi aldım. Frontend ve backend teknolojileri kullanarak uçtan uca web uygulamaları geliştirdim.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "site": "Siteyi Gör",
+        "githubUrl": "https://github.com/",
+        "siteUrl": "https://example.com/"
+      },
+      {
+        "title": "Random Jokes",
+        "desc": "Joke verisi çeken, temiz arayüzlü ve responsive küçük bir uygulama.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "site": "Siteyi Gör",
+        "githubUrl": "https://github.com/",
+        "siteUrl": "https://example.com/"
+      },
+      {
+        "title": "Journey",
+        "desc": "Tipografi, spacing ve component düzeni odaklı bir UI çalışması.",
+        "tags": ["react", "redux", "axios"],
+        "github": "Github",
+        "site": "Siteyi Gör",
+        "githubUrl": "https://github.com/",
+        "siteUrl": "https://example.com/"
+      }
+    ]
+  },
+  "footer": {
+    "headline": "Bir sonraki ürünün için\nbirlikte çalışalım.",
+    "email": "almilasucode@gmail.com",
+    "links": [
+      { "label": "Kişisel Blog", "url": "https://example.com/" },
+      { "label": "Github", "url": "https://github.com/" },
+      { "label": "Linkedin", "url": "https://linkedin.com/" }
+    ]
+  }
+}
