@@ -65,7 +65,7 @@ export default function Hero({ t }) {
 
            
             <a
-              href="https://github.com/"
+              href="https://github.com/m-silacukur"
               target="_blank"
               rel="noreferrer"
               className={`inline-flex h-[52px] items-center gap-[10px] rounded-[6px] border px-[20px] ${socialBorder} ${socialBg}`}
@@ -78,7 +78,7 @@ export default function Hero({ t }) {
 
             
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/meryem-s%C4%B1la-%C3%A7ukur-73409227a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
               target="_blank"
               rel="noreferrer"
               className={`inline-flex h-[52px] items-center gap-[10px] rounded-[6px] border px-[20px] ${socialBorder} ${socialBg}`}

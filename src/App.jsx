@@ -13,6 +13,8 @@ import { LangContext } from "./contexts/LangContext.jsx";
 import { ThemeContext } from "./contexts/ThemeContext.jsx";
 import { postWorkintech } from "./services/api.js";
 
+import { toast } from 'react-toastify';
+
 export default function App() {
   const { isTR, langAction } = useContext(LangContext);
   const { isDark } = useContext(ThemeContext);
@@ -23,7 +25,6 @@ export default function App() {
   const [apiStatus, setApiStatus] = useState({ loading: false, error: "" });
 
   useEffect(() => {
-    
     if (langAction === 0) return;
 
     setApiStatus({ loading: true, error: "" });
@@ -39,7 +40,6 @@ export default function App() {
       .then((res) => {
         setRemoteData(res.data);
         setApiStatus({ loading: false, error: "" });
-        console.log("REQRES POST OK:", res.data);
       })
       .catch((err) => {
         const message =
@@ -47,9 +47,11 @@ export default function App() {
             ? `API Hatası: ${err.response.status}`
             : `API Hatası: ${err.message}`;
         setApiStatus({ loading: false, error: message });
-        console.log("REQRES POST ERROR:", message);
+      })
+      .finally(() => {
+        toast.success(isTR ? "Dil değiştirildi!" : "Language changed!");
       });
-  }, [langAction]); 
+  }, [langAction]);
 
   return (
     <>

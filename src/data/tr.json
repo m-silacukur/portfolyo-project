@@ -5,7 +5,7 @@
     "name": "Meryem Sıla Çukur",
     "title1": "Yaratıcı düşünen",
     "title2": "Minimalizm seven",
-    "desc": "Merhaba, ben Meryem Sıla. Full-stack geliştiriciyim. Sağlam, ölçeklenebilir ve kullanıcı deneyimi güçlü ürünler geliştirmek için birlikte çalışabiliriz.",
+    "desc": "Merhaba, ben Meryem Sıla. Frontend'den backend'e kadar uçtan uca web uygulamaları geliştiren bir Full Stack Developer'ım. Güncel teknolojileri kullanarak ölçeklenebilir, sürdürülebilir ve kullanıcı odaklı çözümler üretiyorum.",
     "cta": "İletişime Geç",
     "github": "Github",
     "linkedin": "Linkedin"
@@ -13,62 +13,62 @@
   "skills": {
     "title": "Yetenekler",
     "items": [
-      { "name": "Java Script", "desc": "Temiz ve okunabilir JS. UI mantığı güçlü, test yazmaya uygun yapı." },
-      { "name": "React.Js", "desc": "Component mimarisi, hook’lar, context ve doğru data flow." },
-      { "name": "Node.Js", "desc": "REST API’ler, middleware, temel auth ve ölçeklenebilir yapı." }
+      { "name": "Frontend Development", "desc": "• JavaScript • HTML/CSS • TailwindCSS • React Query • Redux • AI Integration • Git • Deployment • Testing" },
+      { "name": "Backend Development", "desc": "• Java • Spring Boot • PostgreSQL • REST API • OOP • AI Integration • Git • Deployment • Testing" },
+      { "name": "Full Stack Development", "desc": "• System Design • API Design • Database Design • AI Integration • Git • Deployment • Testing" }
     ]
   },
   "profile": {
     "title": "Profil",
     "leftTitle": "Profil",
     "aboutTitle": "Hakkımda",
-    "about": "Erişilebilir, hızlı ve düzenli arayüzler yapmayı seviyorum. UI detayları, tutarlı boşluklar ve okunabilir kod benim için önemli.",
+    "about": "Kullanıcı ihtiyaçlarını etkili yazılım çözümlerine dönüştürmeye odaklanıyorum. Frontend ve backend teknolojileriyle ölçeklenebilir, sürdürülebilir ve kullanıcı odaklı uygulamalar geliştiriyorum.",
     "fields": [
       { "label": "Doğum tarihi", "value": "29.04.1999" },
       { "label": "İkamet Şehri", "value": "Kocaeli" },
       { "label": "Eğitim Durumu", "value": "Kocaeli Ünv. Biyomedikal Mühendisliği (2023)" },
-      { "label": "Tercih Ettiği Rol", "value": "Frontend, UI" }
+      { "label": "Tercih Ettiği Rol", "value": "Full Stack Developer" }
     ]
   },
   "projects": {
-    "title": "Projeler",
+    "title": "Eğitim ve Projeler",
     "items": [
       {
         "title": "Workintech",
         "desc": "Workintech’te 6 aylık Full Stack Developer eğitimi aldım. Frontend ve backend teknolojileri kullanarak uçtan uca web uygulamaları geliştirdim.",
-        "tags": ["react", "redux", "axios"],
+        "tags": ["react", "spring-boot", "sql"],
         "github": "Github",
         "site": "Siteyi Gör",
-        "githubUrl": "https://github.com/",
-        "siteUrl": "https://example.com/"
+        "githubUrl": "https://github.com/m-silacukur",
+        "siteUrl": "https://github.com/m-silacukur"
       },
       {
-        "title": "Random Jokes",
-        "desc": "Joke verisi çeken, temiz arayüzlü ve responsive küçük bir uygulama.",
-        "tags": ["react", "redux", "axios"],
+        "title": "Portföy Projesi",
+        "desc": "Context API ile global state yönetimi ve custom localStorage hook’u kullanılan kişisel portföy uygulamasıdır.TailwindCSS ile tamamen responsive yapı, TR/EN dil desteği ve Axios ile API entegrasyonu içerir.",
+        "tags": ["react", "context-api", "tailwindcss"],
         "github": "Github",
         "site": "Siteyi Gör",
-        "githubUrl": "https://github.com/",
-        "siteUrl": "https://example.com/"
+        "githubUrl": "https://github.com/m-silacukur/portfolyo-project",
+        "siteUrl": "https://portfolyo-project.vercel.app/"
       },
       {
-        "title": "Journey",
-        "desc": "Tipografi, spacing ve component düzeni odaklı bir UI çalışması.",
-        "tags": ["react", "redux", "axios"],
+        "title": "Twitter Klonu",
+        "desc": "JWT authentication ve Spring Security ile güvenliği sağlanan Spring Boot REST API projesidir.Tweet, yorum, beğeni ve retweet işlemleri DTO yapısı ve katmanlı mimari ile tasarlanmıştır.",
+        "tags": ["Java", "Spring Boot", "PostgreSQL"],
         "github": "Github",
         "site": "Siteyi Gör",
-        "githubUrl": "https://github.com/",
-        "siteUrl": "https://example.com/"
+        "githubUrl": "https://github.com/m-silacukur/twitter-clone",
+        "siteUrl": "https://github.com/m-silacukur/twitter-clone"
       }
     ]
   },
   "footer": {
     "headline": "Bir sonraki ürünün için\nbirlikte çalışalım.",
-    "email": "almilasucode@gmail.com",
+    "email": "silacukurm4@gmail.com",
     "links": [
-      { "label": "Kişisel Blog", "url": "https://example.com/" },
-      { "label": "Github", "url": "https://github.com/" },
-      { "label": "Linkedin", "url": "https://linkedin.com/" }
+      { "label": "Kişisel Blog", "url": "https://github.com/m-silacukur" },
+      { "label": "Github", "url": "https://github.com/m-silacukur" },
+      { "label": "Linkedin", "url": "https://www.linkedin.com/in/meryem-s%C4%B1la-%C3%A7ukur-73409227a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" }
     ]
   }
 }

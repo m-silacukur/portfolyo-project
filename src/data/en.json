@@ -5,7 +5,7 @@
     "name": "Meryem Sıla Çukur",
     "title1": "Creative thinker",
     "title2": "Minimalism lover",
-    "desc": "Hi, I'm Meryem Sıla. I'm a full-stack developer. If you're looking for a developer who crafts solid and scalable products with great user experiences, let's shake hands.",
+    "desc": "Hi, I'm Meryem Sıla. I'm a Full Stack Developer who builds end-to-end web applications from frontend to backend. I create scalable, maintainable, and user-focused solutions using modern technologies.",
     "cta": "Hire me",
     "github": "Github",
     "linkedin": "Linkedin"
@@ -13,62 +13,62 @@
   "skills": {
     "title": "Skills",
     "items": [
-      { "name": "Java Script", "desc": "Clean, readable, test-friendly JS. Solid fundamentals, strong UI logic." },
-      { "name": "React.Js", "desc": "Component-driven architecture, hooks, context, routing, and data flow." },
-      { "name": "Node.Js", "desc": "REST APIs, middleware, auth basics, and scalable project structure." }
+      { "name": "Frontend Development", "desc": "• JavaScript • HTML/CSS • TailwindCSS • React Query • Redux • AI Integration • Git • Deployment • Testing" },
+      { "name": "Backend Development", "desc": "• Java • Spring Boot • PostgreSQL • REST API • OOP • AI Integration • Git • Deployment • Testing" },
+      { "name": "Full Stack Development", "desc": "• System Design • API Design • Database Design • AI Integration • Git • Deployment • Testing" }
     ]
   },
   "profile": {
     "title": "Profile",
     "leftTitle": "Profile",
     "aboutTitle": "About Me",
-    "about": "I enjoy building accessible, fast and clean interfaces. I care about UI details, consistent spacing and readable code.",
+    "about": "I focus on turning user needs into effective software solutions. Working across both frontend and backend technologies, I build scalable, maintainable, and user-centered applications.",
     "fields": [
       { "label": "Date of Birth", "value": "29.04.1999" },
       { "label": "City", "value": "Kocaeli" },
       { "label": "Education", "value": "Kocaeli University, Biomedical Engineering (2023)" },
-      { "label": "Preferred Role", "value": "Frontend, UI" }
+      { "label": "Preferred Role", "value": "Full Stack Developer" }
     ]
   },
   "projects": {
-    "title": "Projects",
+    "title": "Education and Projects",
     "items": [
       {
         "title": "Workintech",
         "desc": "I completed a 6-month Full Stack Developer training program at Workintech. I developed end-to-end web applications using frontend and backend technologies.",
-        "tags": ["react", "redux", "axios"],
+        "tags": ["react", "spring-boot", "sql"],
         "github": "Github",
         "site": "View Site",
-        "githubUrl": "https://github.com/",
-        "siteUrl": "https://example.com/"
+        "githubUrl": "https://github.com/m-silacukur",
+        "siteUrl": "https://github.com/m-silacukur"
       },
       {
-        "title": "Random Jokes",
-        "desc": "A tiny app that fetches jokes with a clean UI and smooth UX. Built to be fast and responsive.",
-        "tags": ["react", "redux", "axios"],
+        "title": "Portfolio Project",
+        "desc":  "A personal portfolio application built with React using Context API for global state management and a custom localStorage hook. Includes fully responsive design with TailwindCSS, TR/EN language support, and API integration via Axios.",
+        "tags": ["react", "context-api", "tailwindcss"],
         "github": "Github",
         "site": "View Site",
-        "githubUrl": "https://github.com/",
-        "siteUrl": "https://example.com/"
+        "githubUrl": "https://github.com/m-silacukur/portfolyo-project",
+        "siteUrl": "https://portfolyo-project.vercel.app/"
       },
       {
-        "title": "Journey",
-        "desc": "A simple UI project focused on consistent spacing, typography and clean components.",
-        "tags": ["react", "redux", "axios"],
+        "title": "Twitter Clone",
+        "desc": "A Spring Boot REST API secured with JWT authentication and Spring Security. Designed with a layered architecture using DTOs for clean data handling. Implements tweet, comment, like, and retweet functionalities.",
+        "tags": ["Java", "Spring Boot", "PostgreSQL"],
         "github": "Github",
         "site": "View Site",
-        "githubUrl": "https://github.com/",
-        "siteUrl": "https://example.com/"
+        "githubUrl": "https://github.com/m-silacukur/twitter-clone",
+        "siteUrl": "https://github.com/m-silacukur/twitter-clone"
       }
     ]
   },
   "footer": {
     "headline": "Let’s work together on\nyour next product.",
-    "email": "almilasucode@gmail.com",
+    "email": "silacukurm4@gmail.com",
     "links": [
-      { "label": "Personal Blog", "url": "https://example.com/" },
-      { "label": "Github", "url": "https://github.com/" },
-      { "label": "Linkedin", "url": "https://linkedin.com/" }
+      { "label": "Personal Blog", "url": "https://github.com/m-silacukur" },
+      { "label": "Github", "url": "https://github.com/m-silacukur" },
+      { "label": "Linkedin", "url": "https://www.linkedin.com/in/meryem-s%C4%B1la-%C3%A7ukur-73409227a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" }
     ]
   }
 }
