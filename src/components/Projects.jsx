@@ -40,7 +40,7 @@ export default function Projects({ t }) {
             <div
               className="
                 h-[180px]
-                w-[300px]
+                w-full
                 overflow-hidden
                 rounded-[12px]
                 bg-[#F3F4F6]
