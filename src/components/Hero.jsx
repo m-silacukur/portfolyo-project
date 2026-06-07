@@ -95,7 +95,7 @@ export default function Hero({ t }) {
           </div>
         </div>
 
-        <div className="flex justify-center lg:justify-end mt-[35px]">
+        <div className="flex items-center justify-center lg:justify-end mt-[35px]">
           <div
             className="h-[375px] w-[476px] overflow-hidden rounded-[18px]
             shadow-[0_18px_88px_-4px_rgba(24,39,75,0.14),0_8px_28px_-6px_rgba(24,39,75,0.12)]"

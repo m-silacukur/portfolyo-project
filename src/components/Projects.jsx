@@ -35,7 +35,7 @@ export default function Projects({ t }) {
         "
       >
         {t.projects.items.map((p, idx) => (
-          <article key={p.title} className="flex w-[300px] flex-col">
+          <article key={p.title} className="flex w-full flex-col transition-shadow duration-300 hover:shadow-xl hover:scale-110 rounded-[12px] p-2">
          
             <div
               className="
@@ -85,20 +85,19 @@ export default function Projects({ t }) {
               {p.desc}
             </p>
 
-            <div className="mt-[18px] flex flex-nowrap gap-[6px]">
+            <div className="mt-[18px] flex flex-wrap gap-[6px]">
               {p.tags.map((tag) => (
                 <span
                   key={tag}
                   className="
                     inline-flex
-                    h-[27px]
                     items-center
                     rounded-[4px]
                     border
                     px-[18px]
                     py-[6px]
                     font-['Inter']
-                    text-[14px]
+                    text-[13px]
                     font-medium
                     leading-[14px]
                     text-[#3730A3]

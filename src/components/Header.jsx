@@ -91,13 +91,13 @@ export default function Header({ t }) {
             isDark ? "text-[#6B7280]" : "text-[#6B7280]",
           ].join(" ")}
         >
-          <a href="#skills" className="hover:text-[#3730A3]">
-            {t.nav.skills}
-          </a>
+        <a href="#skills" className="hover:text-[#3730A3] transition-all duration-200 hover:-translate-y-0.5">
+        {t.nav.skills}
+        </a>
 
-          <a href="#projects" className="hover:text-[#3730A3]">
-            {t.nav.projects}
-          </a>
+        <a href="#projects" className="hover:text-[#3730A3] transition-all duration-200 hover:-translate-y-0.5">
+        {t.nav.projects}
+       </a>
 
           
           <a

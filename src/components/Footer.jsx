@@ -47,6 +47,9 @@ export default function Footer({ t }) {
               text-[#AF0C48]
               underline
               dark:text-[#BAB2E7]
+              transition-transform
+              duration-200
+              hover:scale-110             
             "
           >
             <span aria-hidden="true">👉</span>
@@ -78,6 +81,11 @@ export default function Footer({ t }) {
                     leading-[150%]
                     tracking-[0.01em]
                     hover:underline
+                    dark:text-[#BAB2E7]
+                     transition-transform
+                     duration-200
+                     hover:scale-110
+
                   "
                   style={{ color: colorByLabel(l.label) }}
                 >
