@@ -36,7 +36,7 @@
       {
         "title": "Workintech",
         "desc": "I completed a 6-month Full Stack Developer training program at Workintech. I developed end-to-end web applications using frontend and backend technologies.",
-        "tags": ["react", "spring-boot", "sql"],
+        "tags": ["React", "Spring-Boot", "PostgreSQL"],
         "github": "Github",
         "site": "View Site",
         "githubUrl": "https://github.com/m-silacukur",
@@ -45,7 +45,7 @@
       {
         "title": "Portfolio Project",
         "desc":  "A personal portfolio application built with React using Context API for global state management and a custom localStorage hook. Includes fully responsive design with TailwindCSS, TR/EN language support, and API integration via Axios.",
-        "tags": ["react", "context-api", "tailwindcss"],
+        "tags": ["React", "Context-api", "Tailwindcss"],
         "github": "Github",
         "site": "View Site",
         "githubUrl": "https://github.com/m-silacukur/portfolyo-project",

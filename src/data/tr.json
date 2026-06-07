@@ -36,7 +36,7 @@
       {
         "title": "Workintech",
         "desc": "Workintech’te 6 aylık Full Stack Developer eğitimi aldım. Frontend ve backend teknolojileri kullanarak uçtan uca web uygulamaları geliştirdim.",
-        "tags": ["react", "spring-boot", "sql"],
+        "tags": ["React", "Spring-Boot", "PostgreSQLl"],
         "github": "Github",
         "site": "Siteyi Gör",
         "githubUrl": "https://github.com/m-silacukur",
@@ -45,7 +45,7 @@
       {
         "title": "Portföy Projesi",
         "desc": "Context API ile global state yönetimi ve custom localStorage hook’u kullanılan kişisel portföy uygulamasıdır.TailwindCSS ile tamamen responsive yapı, TR/EN dil desteği ve Axios ile API entegrasyonu içerir.",
-        "tags": ["react", "context-api", "tailwindcss"],
+        "tags": ["React", "Context-api", "Tailwindcss"],
         "github": "Github",
         "site": "Siteyi Gör",
         "githubUrl": "https://github.com/m-silacukur/portfolyo-project",
